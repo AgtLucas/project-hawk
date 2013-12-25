@@ -1,4 +1,4 @@
-// Generated on 2013-12-24 using generator-jekyllrb 1.0.0
+// Generated on 2013-12-25 using generator-jekyllrb 1.0.0
 'use strict';
 
 // Directory reference:
